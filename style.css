@@ -67,7 +67,7 @@ body {
   font-family: Arial, sans-serif;
   background-color: #d4e1f6; 
   color: #6393b3;
-  font-size:0;
+  font-size: 16px;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
